@@ -99,47 +99,11 @@ Note: If your main application file is named differently, replace new.py with yo
 This command will launch the app in your default web browser. If it doesn’t open automatically, navigate to the URL provided in the terminal (usually http://localhost:8501).
 ```
 
-### 🤝 Contributing
-
-Contributions are welcome! Whether it’s reporting a bug, suggesting a feature, or submitting a pull request, your input is highly appreciated. Follow these steps to contribute:
-
-1.	Fork the Repository: Click on the “Fork” button at the top-right corner of the repository page.
-2.	Clone Your Fork
-3.	Create a New Branch:
-
-```
-git checkout -b feature/YourFeatureName
-```
-
-
-4.	Make Your Changes: Implement your feature or fix.
-5.	Commit Your Changes:
-
-```
-git commit -m "Add Your Feature Description"
-```
-
-
-6.	Push to Your Fork:
-
-```
-git push origin feature/YourFeatureName
-```
-
-
-7.	Create a Pull Request: Navigate to the original repository and create a pull request from your fork.
 
 ### 📄 License
 
 This project is licensed under the MIT License.
 
-### 📫 Contact
-
-•	Email: aianytime07@gmail.com ✉️
-
-Feel free to reach out for any queries, suggestions, or contributions. Your feedback is invaluable!
-
-© 2024 Document Buddy App by AI Anytime. All rights reserved. 🛡️
 
 ### 🔗 Useful Links
 
@@ -152,4 +116,3 @@ Feel free to reach out for any queries, suggestions, or contributions. Your feed
 
 •	ChatOllama Documentation: https://github.com/langchain-ai/langchain-llms#ollama
 
-Happy coding! 🚀✨
